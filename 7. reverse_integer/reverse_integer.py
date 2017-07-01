@@ -4,7 +4,7 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        max_int = 2147483647
+        max_int = 2147483647 #sys.maxint in 32bits system
         result = 0
         count = 1 if x >= 0 else -1
         x *= count
@@ -16,5 +16,5 @@ class Solution(object):
             return 0
         return result * count
 
-#a = Solution()
-#print a.reverse(-1474836479)
+# a = Solution()
+# print a.reverse(-1474836479)
