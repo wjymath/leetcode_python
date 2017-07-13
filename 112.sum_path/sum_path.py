@@ -12,16 +12,14 @@ class Solution(object):
         :type sum: int
         :rtype: bool
         """
+        if not root:
+            return False
         rl = root.left
         rr = root.right
         if root.val == sum and rl == None and rr == None:
             return True
-        if rl and rr:
+        if rl or rr:
             return self.hasPathSum(rl, sum - root.val) | self.hasPathSum(rr, sum - root.val)
-        if rl:
-            return self.hasPathSum(rl, sum - root.val)
-        if rr:
-            return self.hasPathSum(rr, sum - root.val)
         return False
 
 if __name__ == '__main__':
@@ -42,4 +40,5 @@ if __name__ == '__main__':
     f.left = g
     f.right = h
     h.right = i
-    print Solution().hasPathSum([], 100)
+    aa = TreeNode([1])
+    print Solution().hasPathSum(aa, 1)
