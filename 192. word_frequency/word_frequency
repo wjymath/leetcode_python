@@ -1,0 +1,22 @@
+# Read from the file words.txt and output the word frequency list to stdout.
+#! /bin/bash
+function Main(){
+    awk -F " " '{
+        for(i=1;i<=NF;i++){
+            if($i == " ")
+                continue;
+            if($i in map){
+                map[$i] += 1;
+            }
+            else{
+                map[$i] = 1;
+            }
+        }
+    }END{
+        for(i in map){
+            print i " " map[i]
+        }
+
+    }' words.txt | sort -t " " -k 2 -gr
+}
+Main;
