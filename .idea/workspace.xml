@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/15. 3Sum/3Sum.py" line="13" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="71104f88-6749-4ba0-8753-92f102d8dfb8" name="Default Changelist" comment="2019/07/12  遍历二叉树">
+    <list default="true" id="71104f88-6749-4ba0-8753-92f102d8dfb8" name="Default Changelist" comment="2019/11/16  deque队列数据结果">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/leetcode_python.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/118. Pascal's Triangle/Pascal's_Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/119. Pascal's Triangle II/Pascal's_Triangle_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. 3Sum/3Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/509. Fibonacci Number/fibonacci_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/371. sum_of_two_integers/sum_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/371. sum_of_two_integers/sum_two.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,20 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py">
+        <entry file="file://$PROJECT_DIR$/933. Number of Recent Calls/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="266">
+              <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -77,12 +64,15 @@
         <option value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py" />
         <option value="$PROJECT_DIR$/Best_Time_to_Buy_and_Sell_Stock_II/Best_Time.py" />
         <option value="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py" />
+        <option value="$PROJECT_DIR$/198. House Robber/House_Robber.py" />
+        <option value="$PROJECT_DIR$/933. Number of Recent Calls/mian.py" />
+        <option value="$PROJECT_DIR$/933. Number of Recent Calls/main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1912" />
-    <option name="y" value="-130" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -94,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,34 +95,23 @@
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="102. Binary Tree Level Order Traversal" type="462c0819:PsiDirectoryNode" />
+              <item name="198. House Robber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="104.max_depth_of_binary_tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="120. Triangle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
-              <item name="122. Best Time to Buy and Sell Stock II" type="462c0819:PsiDirectoryNode" />
+              <item name="933. Number of Recent Calls" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,28 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main_func">
-    <configuration name="3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. 3Sum" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. 3Sum/3Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.House_Robber">
     <configuration name="Best_Time_to_Buy_and_Sell_Stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +139,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="House_Robber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/198. House Robber" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/198. House Robber/House_Robber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.House_Robber" />
         <item itemvalue="Python.main_func" />
         <item itemvalue="Python.Best_Time_to_Buy_and_Sell_Stock" />
         <item itemvalue="Python.Pascal's_Triangle_II" />
         <item itemvalue="Python.Pascal's_Triangle" />
-        <item itemvalue="Python.3Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -342,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562867764576</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2019/07/12">
+      <created>1563044123289</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1563044123289</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -355,20 +342,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-130" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15797788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32721382" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32721382" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32973805" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -387,7 +375,8 @@
     <MESSAGE value="2019/07/12  二分：数组直接对下标进行操作，指针的话，两个指针，一个.next，一个.next.next，判定快指针是否None" />
     <MESSAGE value="2019/07/12  高度指的是root到leaf节点的距离，没有左右子树的时候分开考虑下..." />
     <MESSAGE value="2019/07/12  遍历二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019/07/12  遍历二叉树" />
+    <MESSAGE value="2019/07/12" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/07/12" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1.two_sum/two_sum.py">
@@ -511,8 +500,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Best_Time_to_Buy_and_Sell_Stock_II/Best_Time.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Best_Time_to_Buy_and_Sell_Stock_II/Best_Time.py" />
+    <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -521,10 +515,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py">
+    <entry file="file://$PROJECT_DIR$/198. House Robber/House_Robber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        <state relative-caret-position="323">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/933. Number of Recent Calls/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="64" lean-forward="true" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
         </state>
       </provider>
     </entry>
