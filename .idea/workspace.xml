@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71104f88-6749-4ba0-8753-92f102d8dfb8" name="Default Changelist" comment="2019/07/12  遍历二叉树">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode_python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/118. Pascal's Triangle/Pascal's_Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/119. Pascal's Triangle II/Pascal's_Triangle_II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. 3Sum/3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/509. Fibonacci Number/fibonacci_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/371. sum_of_two_integers/sum_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/371. sum_of_two_integers/sum_two.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1.two_sum/two_sum.py" />
+        <option value="$PROJECT_DIR$/101. Symmetric Tree/symmetric_tree.py" />
+        <option value="$PROJECT_DIR$/107. Binary Tree Level Order Traversal II/binary_tree.py" />
+        <option value="$PROJECT_DIR$/141. Linked List Cycle/has_cycle.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/257. Binary Tree Paths/binary_tree_paths.py" />
+        <option value="$PROJECT_DIR$/326. Power of Three/power_of_three.py" />
+        <option value="$PROJECT_DIR$/371. sum_of_two_integers/sum_two.py" />
+        <option value="$PROJECT_DIR$/561. Array Partition I/array_partition.py" />
+        <option value="$PROJECT_DIR$/509. Fibonacci Number/fibonacci_number.py" />
+        <option value="$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/Convert_Sorted_Array_to_Binary_Search_Tree.py" />
+        <option value="$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/Convert_Sorted_List_to_Binary_Search_Tree.py" />
+        <option value="$PROJECT_DIR$/111. Minimum Depth of Binary Tree/Minimum_Depth_of_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/102. Binary Tree Level Order Traversal/Binary_Tree_Level_Order_Traversal.py" />
+        <option value="$PROJECT_DIR$/15. 3Sum/3Sum.py" />
+        <option value="$PROJECT_DIR$/118. Pascal's Triangle/Pascal's_Triangle.py" />
+        <option value="$PROJECT_DIR$/119. Pascal's Triangle II/Pascal's_Triangle_II.py" />
+        <option value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py" />
+        <option value="$PROJECT_DIR$/Best_Time_to_Buy_and_Sell_Stock_II/Best_Time.py" />
+        <option value="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-130" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+              <item name="102. Binary Tree Level Order Traversal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+              <item name="104.max_depth_of_binary_tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+              <item name="120. Triangle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_python" type="462c0819:PsiDirectoryNode" />
+              <item name="122. Best Time to Buy and Sell Stock II" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main_func">
+    <configuration name="3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. 3Sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. 3Sum/3Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Best_Time_to_Buy_and_Sell_Stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pascal's_Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/118. Pascal's Triangle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/118. Pascal's Triangle/Pascal's_Triangle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pascal's_Triangle_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/119. Pascal's Triangle II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/119. Pascal's Triangle II/Pascal's_Triangle_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode_python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_func" />
+        <item itemvalue="Python.Best_Time_to_Buy_and_Sell_Stock" />
+        <item itemvalue="Python.Pascal's_Triangle_II" />
+        <item itemvalue="Python.Pascal's_Triangle" />
+        <item itemvalue="Python.3Sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71104f88-6749-4ba0-8753-92f102d8dfb8" name="Default Changelist" comment="" />
+      <created>1551516603284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551516603284</updated>
+    </task>
+    <task id="LOCAL-00001" summary="递归解决">
+      <created>1551531525088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551531525088</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019/03/02 107. Binary Tree Level Order Traversal II">
+      <created>1551537959145</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1551537959145</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2019/03/03 141. Linked List Cycle 链表是否有环，两个指针一个快一个慢">
+      <created>1551543030252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551543030252</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2019/03/03 257. Binary Tree Paths 注意strip函数，中间的内容并不是一个整体">
+      <created>1551550920599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1551550920599</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2019/03/03 257. 326. Power of Three">
+      <created>1551598189633</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551598189633</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2019/03/10 561. Array Partition I">
+      <created>1552151991821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552151991821</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2019/07/12  不强调顺序，直接二分递归">
+      <created>1562863567026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562863567026</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2019/07/12  二分：数组直接对下标进行操作，指针的话，两个指针，一个.next，一个.next.next，判定快指针是否None">
+      <created>1562866076659</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562866076659</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2019/07/12  高度指的是root到leaf节点的距离，没有左右子树的时候分开考虑下...">
+      <created>1562866925367</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1562866925367</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2019/07/12  遍历二叉树">
+      <created>1562867764576</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1562867764576</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-130" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15797788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32721382" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32973805" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32937366" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="递归解决" />
+    <MESSAGE value="2019/03/02 107. Binary Tree Level Order Traversal II" />
+    <MESSAGE value="2019/03/03 141. Linked List Cycle 链表是否有环，两个指针一个快一个慢" />
+    <MESSAGE value="2019/03/03 257. Binary Tree Paths 注意strip函数，中间的内容并不是一个整体" />
+    <MESSAGE value="2019/03/03 257. 326. Power of Three" />
+    <MESSAGE value="2019/03/10 561. Array Partition I" />
+    <MESSAGE value="2019/07/12  不强调顺序，直接二分递归" />
+    <MESSAGE value="2019/07/12  二分：数组直接对下标进行操作，指针的话，两个指针，一个.next，一个.next.next，判定快指针是否None" />
+    <MESSAGE value="2019/07/12  高度指的是root到leaf节点的距离，没有左右子树的时候分开考虑下..." />
+    <MESSAGE value="2019/07/12  遍历二叉树" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019/07/12  遍历二叉树" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.two_sum/two_sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/101. Symmetric Tree/symmetric_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/107. Binary Tree Level Order Traversal II/binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="399">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/141. Linked List Cycle/has_cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/257. Binary Tree Paths/binary_tree_paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/326. Power of Three/power_of_three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/371. sum_of_two_integers/sum_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/509. Fibonacci Number/fibonacci_number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/561. Array Partition I/array_partition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/104.max_depth_of_binary_tree/max_depth.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/108. Convert Sorted Array to Binary Search Tree/Convert_Sorted_Array_to_Binary_Search_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/109. Convert Sorted List to Binary Search Tree/Convert_Sorted_List_to_Binary_Search_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/102. Binary Tree Level Order Traversal/Binary_Tree_Level_Order_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111. Minimum Depth of Binary Tree/Minimum_Depth_of_Binary_Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. 3Sum/3Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/118. Pascal's Triangle/Pascal's_Triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/119. Pascal's Triangle II/Pascal's_Triangle_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Best_Time_to_Buy_and_Sell_Stock_II/Best_Time.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/121. Best Time to Buy and Sell Stock/Best_Time_to_Buy_and_Sell_Stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/122. Best Time to Buy and Sell Stock II/main_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
