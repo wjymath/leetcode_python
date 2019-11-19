@@ -17,4 +17,5 @@ class Solution(object):
         :rtype: int
         """
         return 0 if num == 0 else (num - 1) % 9 + 1
+        
 4.检测单链表中是否有环 no.141 两个指针，一个指针快一个指针慢，如果均为None则表示无环，否则必相等
