@@ -4,15 +4,12 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        l = len(nums)
-        if not l:
-            return 0
-        if l == 1:
-            return nums[0]
-        if l == 2:
-            return max(nums)
-        if l == 3:
-            return max(nums[1], nums[0] + nums[2])
-        return max(nums[0] + self.rob(nums[2:]), nums[1] + self.rob(nums[3:]))
+        current = 0
+        pre = 0
+        for item in nums:
+            tmp = current
+            current = max(pre + item, current)
+            pre = tmp
+        return current
 
-print(Solution().rob([2,7,9,3,1]))
+print(Solution().rob([155,44,52,58,250,225,109,118,211,73,137,96,137,89,174,66,134,26,25,205,239,85,146,73,55,6,122,196,128,50,61,230,94,208,46,243,105,81,157,89,205,78,249,203,238,239,217,212,241,242,157,79,133,66,36,165]))
